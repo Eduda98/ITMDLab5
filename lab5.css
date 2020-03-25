@@ -1,0 +1,44 @@
+.background {
+	background-image: url("images/StarryNight.jpg");
+	background-size: cover;
+}
+body {
+	color: white;
+	font-family: 'Space Mono', monospace;
+	
+}
+h1 {
+	text-align: center;
+	font-family: 'Space Mono', monospace;
+	color: black;
+	background-color: white;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Space Mono', monospace;
+	color: black;
+	background-color: white;
+}
+
+.planetsize {
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+
+
+#table {
+	font-family: 'Space Mono', monospace;
+	border-collapse: collapse;
+	border: 10px solid;
+	border-color: black;
+}
+
+
+#table th {
+	border: 6px solid;
+	padding: 10px;
+	border-color: black;
+	text-align: center;
+}
